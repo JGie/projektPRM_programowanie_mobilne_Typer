@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>HELL</Machine>
+    <WindowsUser>jakubczyk</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>2a492e15-1120-4854-a03e-419cce9167ae</PackageIdentityName>
+    <IntermediateOutputPath>D:\uczelnia\PRM\Projekty\DuzyProjekt\DuzyProjekt\DuzyProjekt.WindowsPhone\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\uczelnia\PRM\Projekty\DuzyProjekt\DuzyProjekt\DuzyProjekt.WindowsPhone\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\uczelnia\PRM\Projekty\DuzyProjekt\DuzyProjekt\DuzyProjekt.WindowsPhone\bin\Debug\DuzyProjekt.WindowsPhone.exe">
+      <PackagePath>DuzyProjekt.WindowsPhone.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\uczelnia\PRM\Projekty\DuzyProjekt\packages\Newtonsoft.Json.6.0.6\lib\portable-net40+sl5+wp80+win8+wpa81\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\uczelnia\PRM\Projekty\DuzyProjekt\packages\Microsoft.Net.Http.2.2.28\lib\wpa81\System.Net.Http.Extensions.dll">
+      <PackagePath>System.Net.Http.Extensions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\uczelnia\PRM\Projekty\DuzyProjekt\packages\Microsoft.Net.Http.2.2.28\lib\wpa81\System.Net.Http.Primitives.dll">
+      <PackagePath>System.Net.Http.Primitives.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\uczelnia\PRM\Projekty\DuzyProjekt\DuzyProjekt\DuzyProjekt.WindowsPhone\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\uczelnia\PRM\Projekty\DuzyProjekt\DuzyProjekt\DuzyProjekt.WindowsPhone\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\uczelnia\PRM\Projekty\DuzyProjekt\DuzyProjekt\DuzyProjekt.WindowsPhone\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\uczelnia\PRM\Projekty\DuzyProjekt\DuzyProjekt\DuzyProjekt.WindowsPhone\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\uczelnia\PRM\Projekty\DuzyProjekt\DuzyProjekt\DuzyProjekt.WindowsPhone\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\uczelnia\PRM\Projekty\DuzyProjekt\DuzyProjekt\DuzyProjekt.WindowsPhone\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\uczelnia\PRM\Projekty\DuzyProjekt\DuzyProjekt\DuzyProjekt.WindowsPhone\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\uczelnia\PRM\Projekty\DuzyProjekt\DuzyProjekt\DuzyProjekt.WindowsPhone\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\uczelnia\PRM\Projekty\DuzyProjekt\DuzyProjekt\DuzyProjekt.WindowsPhone\bin\Debug\MojeKonto.xbf">
+      <PackagePath>MojeKonto.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\uczelnia\PRM\Projekty\DuzyProjekt\DuzyProjekt\DuzyProjekt.WindowsPhone\bin\Debug\Typowanie.xbf">
+      <PackagePath>Typowanie.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\uczelnia\PRM\Projekty\DuzyProjekt\DuzyProjekt\DuzyProjekt.WindowsPhone\bin\Debug\DuzyProjekt.WindowsPhone.xr.xml">
+      <PackagePath>DuzyProjekt.WindowsPhone.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\uczelnia\PRM\Projekty\DuzyProjekt\DuzyProjekt\DuzyProjekt.WindowsPhone\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

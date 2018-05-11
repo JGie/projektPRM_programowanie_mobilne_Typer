@@ -1,0 +1,8 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="d:\uczelnia\prm\projekty\duzyprojekt\duzyprojekt\duzyprojekt.windowsphone\obj\debug\intermediatexaml\duzyprojekt.windowsphone.exe" HashGuid="b5194504-9adb-79d9-d1e3-4816b86fb801" />
+    <ReferenceAssembly PathName="d:\uczelnia\prm\projekty\duzyprojekt\packages\newtonsoft.json.6.0.6\lib\portable-net40+sl5+wp80+win8+wpa81\newtonsoft.json.dll" HashGuid="9e796421-3b84-3ec5-6e39-cb6d41d020b7" />
+    <ReferenceAssembly PathName="d:\uczelnia\prm\projekty\duzyprojekt\packages\microsoft.net.http.2.2.28\lib\wpa81\system.net.http.extensions.dll" HashGuid="794366f8-cc6d-f0fa-3d07-33b45136e193" />
+    <ReferenceAssembly PathName="d:\uczelnia\prm\projekty\duzyprojekt\packages\microsoft.net.http.2.2.28\lib\wpa81\system.net.http.primitives.dll" HashGuid="7b71418d-e056-7613-c839-85fb8f6472a6" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

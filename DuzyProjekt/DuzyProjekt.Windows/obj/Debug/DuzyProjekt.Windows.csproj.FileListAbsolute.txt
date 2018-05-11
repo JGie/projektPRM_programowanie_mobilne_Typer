@@ -1,0 +1,11 @@
+D:\uczelnia\PRM\Projekty\DuzyProjekt\DuzyProjekt\DuzyProjekt.Windows\obj\Debug\App.g.i.cs
+D:\uczelnia\PRM\Projekty\DuzyProjekt\DuzyProjekt\DuzyProjekt.Windows\obj\Debug\App.g.cs
+D:\uczelnia\PRM\Projekty\DuzyProjekt\DuzyProjekt\DuzyProjekt.Windows\obj\Debug\MainPage.g.i.cs
+D:\uczelnia\PRM\Projekty\DuzyProjekt\DuzyProjekt\DuzyProjekt.Windows\obj\Debug\MainPage.g.cs
+D:\uczelnia\PRM\Projekty\DuzyProjekt\DuzyProjekt\DuzyProjekt.Windows\obj\Debug\XamlTypeInfo.g.cs
+D:\uczelnia\PRM\Projekty\DuzyProjekt\DuzyProjekt\DuzyProjekt.Windows\obj\Debug\App.xaml
+D:\uczelnia\PRM\Projekty\DuzyProjekt\DuzyProjekt\DuzyProjekt.Windows\obj\Debug\MainPage.xaml
+D:\uczelnia\PRM\Projekty\DuzyProjekt\DuzyProjekt\DuzyProjekt.Windows\obj\Debug\App.xbf
+D:\uczelnia\PRM\Projekty\DuzyProjekt\DuzyProjekt\DuzyProjekt.Windows\obj\Debug\MainPage.xbf
+D:\uczelnia\PRM\Projekty\DuzyProjekt\DuzyProjekt\DuzyProjekt.Windows\obj\Debug\XamlSaveStateFile.xml
+D:\uczelnia\PRM\Projekty\DuzyProjekt\DuzyProjekt\DuzyProjekt.Windows\obj\Debug\DuzyProjekt.Windows.csprojResolveAssemblyReference.cache
